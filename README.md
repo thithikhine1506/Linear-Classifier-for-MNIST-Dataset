@@ -27,3 +27,13 @@ Libraries : NumPy, Matplotlib (Visualization), PyTorch (Verification), Torchvisi
 Final Accuracy: ~84.29%
 
 Execution Time: Highly optimized; training completes in under 20 seconds for most configurations on macOS
+
+
+**How to Run**
+
+1.Clone the repository.
+
+2.Ensure you have the dependencies installed: pip install numpy torch torchvision matplotlib.
+
+3.Open HW1_codes_Thi_Thi_Khine.ipynb in Jupyter Notebook or VS Code to view the implementation and results.
+
