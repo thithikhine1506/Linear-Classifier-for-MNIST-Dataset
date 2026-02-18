@@ -20,4 +20,10 @@ The core of this project is a manual implementation of Minibatch Stochastic Grad
 
 Language : Python
 
-Libraries : NumPy, Matplotlib (Visualization), PyTorch (Verification), Torchvisio
+Libraries : NumPy, Matplotlib (Visualization), PyTorch (Verification), Torchvision
+
+**Performance Summary**
+
+Final Accuracy: ~84.29%
+
+Execution Time: Highly optimized; training completes in under 20 seconds for most configurations on macOS
