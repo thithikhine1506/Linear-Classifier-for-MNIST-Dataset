@@ -17,5 +17,7 @@ The core of this project is a manual implementation of Minibatch Stochastic Grad
 **Framework Verification**: Validated the scratch implementation against PyTorch, achieving nearly identical loss convergence.
 
 **Tech Stack**
+
 Language : Python
+
 Libraries : NumPy, Matplotlib (Visualization), PyTorch (Verification), Torchvisio
